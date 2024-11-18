@@ -10,7 +10,7 @@ use Illuminate\Support\Facades\Response;
  *
  * @author KanekiYuto
  */
-class Export
+readonly class Export
 {
     
     /**
